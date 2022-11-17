@@ -1,2 +1,7 @@
-# Employee-Attrition-Prediction-Project
-Employee attrition is downsizing in any organization where employees resign. Employees are valuable assets of any organization. It is necessary to know whether the employees are dissatisfied or whether there are other reasons for leaving their respective jobs.
+# HR-Analytics - Employee Attrition Prediction
+
+Kaggle project - IBM HR Analytics Employee Attrition &amp; Performance
+ 
+Source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/kernels
+
+Medium post: https://tinyurl.com/ssrjpvx
